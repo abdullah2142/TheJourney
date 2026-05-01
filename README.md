@@ -2,6 +2,8 @@
 
 A narrative-driven adventure game built in Godot where you play as a character who has awakened from a coma with no memory of their past. Through exploration, conversations with NPCs, and meaningful choices, you piece together your identity and discover who you were before the accident.
 
+### Gameplay Demo: https://www.linkedin.com/posts/abdullah2142_a-game-demo-that-ishmam-ahmed-and-i-made-ugcPost-7400128026547511296-Wd-V?utm_source=share&utm_medium=member_desktop&rcm=ACoAACJjwx8BlACQA2GCi0IL2bWcQ-WYG_dvCeU
+
 ## Tech Stack
 
 ### Game Engine
